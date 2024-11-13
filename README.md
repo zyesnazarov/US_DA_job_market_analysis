@@ -4,7 +4,7 @@
 
  I filtered out those positions y which ones were the most pupular, and query highlights the most popular job titles and their tp skills, showing which skills I should pay attention to depending on the role I'm targeting.
 
-View my notebook with detailed steps here: [2_Skills_count.ipynb](Python\Projects\2_Skills_count.ipynb)
+View my notebook with detailed steps here: [2_Skills_count.ipynb](Python/US_DA_job_market_analysis/2_Skills_count.ipynb)
 
 ### Visualize data
 
@@ -57,7 +57,7 @@ plt.show()
 
 ### Results
 
-![Trending top skills for data analyst roles in US](Python/Project_1/Images/Skill_trend_US.png)
+![Trending top skills for data analyst roles in US](Python/US_DA_job_market_analysis/Images/Skill_trend_US.png)
 *Bar graph reflection top skills required for data analyst roles in US
 
 
@@ -182,3 +182,5 @@ plt.show()
 - Specialized database skills like Oracle and SQL Server pay well: Skills related to Oracle and SQL Server command some of the highest median salaries ($96K and $94K, respectively), even though they appear in fewer job postings (~15% each), suggesting that specialized database expertise can yield higher pay.
 
 -Power BI and Tableau are lucrative analyst tools: Tableau and Power BI are associated with median salaries around $90K. However, Power BI is mentioned more frequently in job postings (~20%) compared to Tableau (~15%), suggesting Power BI might be more in demand despite similar earning potential.
+
+[def]: Python\US_DA_job_market_analysis\Images\Skill_trend_US.png
