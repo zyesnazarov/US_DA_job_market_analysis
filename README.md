@@ -1,3 +1,12 @@
+# US Data Analyst Market Analysis
+
+Welcome to my first project! **US Data Analyst Market Analysis** was created as a foundational step to develop my skills in Python and pandas. Through this project, I gained hands-on experience with data manipulation and visualization libraries such as Seaborn and Matplotlib. 
+
+This project was built following the [Luke Barousse tutorial](https://www.youtube.com/watch?v=wUSDVGivd-8&ab_channel=LukeBarousse), which provided valuable guidance and insights into effective data analysis techniques.
+
+Feel free to explore the code and visualizations to see what I've learned and accomplished!
+
+
 # The Analysis
 
 ## 1. What are the most demanded skills for the top 3 most popular data roles?
